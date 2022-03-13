@@ -53,3 +53,5 @@ You must have [Docker and Docker Compose installed](https://docs.docker.com/get-
 - Complete the initial configuration and install all suggested plugins
 
 Now you can run `docker` commands in your Jenkins builds!
+
+Run `docker compose down` the services.
